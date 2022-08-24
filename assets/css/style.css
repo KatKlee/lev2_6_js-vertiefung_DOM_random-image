@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#content {
+    background-color: salmon;
+    width: 60%;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10vh auto;
+}
+
+.pTagStyle {
+    color: white;
+    font-size: 2.5em;
+}
+
+.buttonStyle {
+    color: white;
+    background-color: salmon;
+    padding: 10px 15px;
+    border-radius: 22px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+.buttonStyle:hover {
+    background-color: black;
+}
+
+.imageStyle {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
